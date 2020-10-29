@@ -13,7 +13,8 @@
     width: 70px;
     height: 70px;
     font-size: 25px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 .resultado{
@@ -24,11 +25,26 @@
     width: 300px;
     height: 100px;
     line-height: 100px;
-    background-color: rgb(113, 184, 8);
+    background-color: rgb(124, 124, 123);
     border-radius: 25px;
     overflow-y: scroll;
    
 }
 .body{
 background-color: #c3c0c0;
+}
+.botonesEstilos{
+    background-color: rgb(16, 16, 104);
+    color: ghostwhite;
+}
+
+.carcasa{
+    background-color:  rgb(19, 19, 153);
+    border: 5px solid;
+   display: block;
+    margin: 0 auto;
+    padding: 20px;
+    width: 385px;
+    height: 500px;
+    border-radius: 25px;
 }
